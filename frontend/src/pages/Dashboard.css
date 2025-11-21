@@ -1,0 +1,26 @@
+.dashboard {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dashboard-header button {
+  margin-left: 10px;
+}
+
+.logout-btn {
+  background-color: #f44336;
+  color: white;
+}
+
+.error {
+  color: red;
+  margin: 10px 0;
+}
